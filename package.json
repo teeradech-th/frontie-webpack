@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomaszbujnowicz/frontie-webpack.git"
+    "url": "git+https://github.com/teeradech-th/frontie-webpack.git"
   },
   "keywords": [
     "gulp",
@@ -74,13 +74,13 @@
     "itcss"
   ],
   "author": {
-    "name": "Tomasz Bujnowicz",
-    "email": "tomasz@prollective.com",
-    "url": "https://prollective.com"
+    "name": "Teeradech Thanapop",
+    "email": "t.thanapop@gmail.com",
+    "url": "https://noom.works"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomaszbujnowicz/frontie-webpack/issues"
+    "url": "https://github.com/teeradech-th/frontie-webpack/issues"
   },
-  "homepage": "https://github.com/tomaszbujnowicz/frontie-webpack#readme"
+  "homepage": "https://github.com/teeradech-th/frontie-webpack#readme"
 }
